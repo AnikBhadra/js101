@@ -1,4 +1,3 @@
-
 //  setting counter variable's value equal to 0
 
 let count = 0;
